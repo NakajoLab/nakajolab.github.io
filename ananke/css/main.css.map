@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/shogo/tmp/njlab-website",
+	"sourceRoot": "/home/runner/work/website/website",
 	"sources": [
 		"ananke/css/main.css"
 	],
